@@ -108,7 +108,7 @@
 <https://github.com/wensonsmith/YoudaoTranslator>
 
 # TimeStamp Convert Python.alfredworkflow
-基于python版本的时间戳转换
+基于python版本的时间戳转换, 需要自己安装Python环境, 然后 pip install python-dateutil
 ### 时间戳转换工具, python 版本
 默认快捷键 `ts`, 查看当前时间格式展示 
 - 展示当天时间信息 `ts n` 或者 `t now`
