@@ -131,3 +131,4 @@
 - 选中某一项转换结果键入 `Enter` 即可复制
 
 同时带上了一个js的版本, js版本使用
+./time-converter "{query}"
